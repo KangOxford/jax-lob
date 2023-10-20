@@ -8,12 +8,6 @@
   * `jaxen`: Jax trading_environment
   * `jaxrl`: Jax training loop
 
-### Outlines for our work:
-* Converting into Jax
-* Baseline Models(TWAP, VWAP), Pre-train(Imitation Learning, GAIL)
-* Representing the order book
-* Generating Order Flows by Tockenizing with Large Language Models
-
 ## Installation
 
 To install the latest version of Jaxlob, run:
