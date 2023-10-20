@@ -16,4 +16,20 @@ To install the latest version of Jaxlob, run:
 pip install jaxlob
 ```
 
-* Anyone who might conribute codes to this repositry, please send email to me: kang@robots.ox.ac.uk 
+## Citation
+
+If you find this project useful, please cite:
+
+```
+@misc{frey2023jaxlob,
+      title={JAX-LOB: A GPU-Accelerated limit order book simulator to unlock large scale reinforcement learning for trading}, 
+      author={Sascha Frey and Kang Li and Peer Nagy and Silvia Sapora and Chris Lu and Stefan Zohren and Jakob Foerster and Anisoara Calinescu},
+      year={2023},
+      eprint={2308.13289},
+      archivePrefix={arXiv},
+      primaryClass={q-fin.TR}
+}
+```
+## Contribution
+
+* Anyone who might contribute codes to this repository, please email me: kang@robots.ox.ac.uk 
