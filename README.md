@@ -14,5 +14,12 @@
 * Representing the order book
 * Generating Order Flows by Tockenizing with Large Language Models
 
+## Installation
 
-* Anyone who might conribute codes to this repositry, please send email to me: kang.li@stats.ox.ac.uk 
+To install the latest version of Jaxlob, run:
+
+```bash
+pip install jaxlob
+```
+
+* Anyone who might conribute codes to this repositry, please send email to me: kang@robots.ox.ac.uk 
