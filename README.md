@@ -8,6 +8,12 @@
   * `jaxen`: Jax trading_environment
   * `jaxrl`: Jax training loop
 
+## Dependencies
+
+```
+pip install jax[cuda]==0.4.11 -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html jaxlib==0.4.11 -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html distrax brax chex flax optax gymnax wandb  
+```
+
 ## Installation
 
 To install the latest version of Jaxlob, run:
